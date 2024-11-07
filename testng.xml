@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite de Pruebas" parallel="false">
+    <test name="Pruebas de Login">
+        <classes>
+            <class name="com.jms_pages.tests.LoginTest"/>
+        </classes>
+    </test>
+    <!-- <test name="Pruebas de Formulario">
+        <classes>
+            <class name="com.rfe_pages.tests.FormTest"/>
+        </classes>
+    </test> -->
+</suite>

@@ -1,0 +1,6 @@
+<configuration>
+    <theme>standard</theme>
+    <documentTitle>Reporte de Pruebas</documentTitle>
+    <reportName>Reporte de Automatización</reportName>
+    <encoding>UTF-8</encoding>
+</configuration>

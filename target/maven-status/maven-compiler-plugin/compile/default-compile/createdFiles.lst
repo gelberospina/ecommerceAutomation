@@ -1,0 +1,6 @@
+com\jms_pages\pages\LoginPage.class
+com\jms_pages\utils\ReportManager.class
+com\jms_pages\pages\MenuPage.class
+com\jms_pages\utils\DriverManager.class
+com\jms_pages\utils\JsonDataReader.class
+com\jms_pages\base\BaseTest.class
